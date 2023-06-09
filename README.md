@@ -10,8 +10,8 @@ Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Ecommerce Demo</a
 
 <h3>Build with:</h3>
 
-» Vanila CSS <br>
-» React JS
+- React JS 
+- CSS
 
 <h2>Screenshots of the Project </h2>
 <br>
